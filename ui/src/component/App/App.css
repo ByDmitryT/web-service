@@ -1,0 +1,13 @@
+.app {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.create-form {
+  width: 30%;
+}
+
+.app-table {
+  width: 50%;
+}
